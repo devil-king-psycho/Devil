@@ -20,18 +20,18 @@ Project created by <a href="https://github.com/devil-king-psycho">Devil</a> to m
 instagram 
   <div align="center">
     
-  [Devil king](https://www.linkpicture.com/q/images-12_42.jpeg?size="20")](https://instagram.com/pavam_n_a_n)
+  [Devil king](https://www.linkpicture.com/q/images-12_42.jpeg?size="20")](https://instagram.com/_._.devil__king._._)
 
 
 
   <p align="center">
-  <a href="httsp://github.com/saidalisaid2/LiyaMol">
-    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/devil-king-psycho/LiyaMol">
+    <img src="https://img.shields.io/github/repo-size/farhan-dqz/Devil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/saidalisaid2/followers"><img title="Followers" src="https://img.shields.io/github/followers/saidalisaid2?color=blue&style=flat-square"></a>
-<a href="https://github.com/saidalisaid2/LiyaMol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/saidalisaid2/LiyaMol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/saidalisaid2/LiyaMol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/devil-king-psycho/followers"><img title="Followers" src="https://img.shields.io/github/followers/devil-king-psycho?color=blue&style=flat-square"></a>
+<a href="https://github.com/devil-king-psycho/LiyaMol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/Devil?color=blue&style=flat-square"></a>
+<a href="https://github.com/devil-king-psycho/LiyaMol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/Devil?color=blue&style=flat-square"></a>
+<a href="https://github.com/devil-king-psycho/LiyaMol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/Devil?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -52,7 +52,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devil-king-psycho/JulieMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devil-king-psycho/Devil)
      </div>
 <br>
 <br >
@@ -61,7 +61,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ 
+### Devil king
 
 
 ### ⚠️ Warning! 
@@ -75,9 +75,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![saidali](https://i.imgur.com/MZDCN2M.jpeg?size=100)](https://github.com/saidalisaid2) |  
+  [![devil](https://i.imgur.com/MZDCN2M.jpeg?size=100)](https://github.com/devil-king-psycho) |  
 ----|
-[ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://github.com/saidalisaid2)  |
+[Devil king⁩](https://github.com/devil-king-psycho)  |
 Base, Bug Fixes, Modules | 
   
     
