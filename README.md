@@ -3,7 +3,7 @@
 <div align="center">
   <    img     border-radius:     15px     src = "devil.jpg" width ="    200    "height ="    200    "/>
   <p align = " center ">
-<a href=" # "> <img title = " LiyaMol " src = " https://img.shields.io/badge/LiyaMol-green?colorA = % 23ff0000 & colorB = % 23017e40 & style = for-the-badge "> < / a>
+<a href=" # "> <img title = " Devil " src = " https://img.shields.io/badge/Devil-green?colorA = % 23ff0000 & colorB = % 23017e40 & style = for-the-badge "> < / a>
 </p>
   <p align="center">
 <a href="https://github.com/devil-king-psycho"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=red&style=for-the-badge&logo=whatsapp"></a>
@@ -25,13 +25,13 @@ instagram
 
 
   <p align="center">
-  <a href="httsp://github.com/devil-king-psycho/LiyaMol">
+  <a href="httsp://github.com/devil-king-psycho/Devil">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/Devil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/devil-king-psycho/followers"><img title="Followers" src="https://img.shields.io/github/followers/devil-king-psycho?color=blue&style=flat-square"></a>
-<a href="https://github.com/devil-king-psycho/LiyaMol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/Devil?color=blue&style=flat-square"></a>
-<a href="https://github.com/devil-king-psycho/LiyaMol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/Devil?color=blue&style=flat-square"></a>
-<a href="https://github.com/devil-king-psycho/LiyaMol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/Devil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/devil-king-psycho/Devil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/Devil?color=blue&style=flat-square"></a>
+<a href="https://github.com/devil-king-psycho/Devil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/Devil?color=blue&style=flat-square"></a>
+<a href="https://github.com/devil-king-psycho/Devil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/Devil?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
